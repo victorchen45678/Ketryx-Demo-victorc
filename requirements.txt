@@ -21,6 +21,6 @@ tensorflow-hub==0.12.0
 tensorflow-model-optimization==0.7.3
 tensorflowjs==3.19.0
 tf-models-official==2.3.0
-tflite-support-nightly==0.4.0.dev20220726
+tflite-support-nightly==0.4.0
 urllib3==1.25.11
 
