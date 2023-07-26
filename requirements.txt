@@ -14,7 +14,7 @@ rdiffweb==2.4.10
 scann==1.2.6
 sentencepiece==0.1.97
 six==1.16.0
-tensorflow==2.6.0
+tensorflow==0.6.0
 tensorflow-addons==0.17.1
 tensorflow-datasets==4.6.0
 tensorflow-hub==0.12.0
