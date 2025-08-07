@@ -3,7 +3,7 @@ package com.ketryx.sample;
 
 /**
  * Utility class to read sensor.
- * @tests:Ketryx-Demo
+ * @tests:rq-example-001
  * @itemId:SensorReading
  * @itemType: Test Case
  * @itemTitle:"Sensor Reading (Jav4)"
