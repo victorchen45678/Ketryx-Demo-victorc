@@ -7,6 +7,6 @@ The hypothetical application represented here would have the following parts and
 * Basic web application consisting of a database, server, and web client
 * A ML-based classifier
 * An authentication system based on NextAuth
-* A mobile iOS app
+* A mobile iOS app..
 
 © Copyright 2023 [Ketryx Corporation](https://www.ketryx.com/)
