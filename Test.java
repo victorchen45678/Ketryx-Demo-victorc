@@ -1,16 +1,17 @@
-
 package com.ketryx.sample;
 
+import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Test {
+public class SensorReadingTest {
     /**
-     * Utility class to read sensor.
-     * @tests:rq-example-001
-     * @itemId:SensorReading
+     * Tests that sensor is read correctly.
+     * @tests:SensorReading
+     * @itemTitle:"Test Sensor Reading (Java)"
      */
     @Test
-    public static int readSensor(int a, int b) {
-        return a + b;
+    public void sensorReadingTest() {
+        assertEquals(3, SensorReading.readSensor(1, 2));
     }
 }
