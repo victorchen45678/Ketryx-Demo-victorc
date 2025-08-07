@@ -6,6 +6,7 @@ package com.ketryx.sample;
  *
  * @itemId:SensorReading
  * @itemTitle:"Sensor Reading (Java)"
+ * @itemType: Test Case
  * @itemHasParent:spec-sensor-module
  * @itemFulfills:CS-1,KD-20
  */
