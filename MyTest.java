@@ -5,8 +5,8 @@ import org.junit.jupiter.api.Test;
 public class MyTest {
     /**
      * Tests that things work.
-     * @tests: KXITM0YCK0YE7DX8WYTTQZ4MSK293X2
-     * @itemTitle: "Title of the item2"
+     * @tests:KXITM0YCK0YE7DX8WYTTQZ4MSK293X2
+     * @itemTitle:"Title of the item2"
      */
     @Test
     public void testSubtraction() {
