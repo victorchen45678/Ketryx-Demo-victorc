@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
  * @itemFulfills:VIC-2
  */
 public class MyTest {
-    public void testSubtraction() {
-        assertEquals(0, 2 - 2);
+    public static int add(int a, int b) {
+        return a + b;
     }
 }
