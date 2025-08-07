@@ -1,6 +1,5 @@
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import org.junit.jupiter.api.Test;
+package com.ketryx.sample;
 
 /**
  * Utility class to read sensor.
@@ -8,10 +7,10 @@ import org.junit.jupiter.api.Test;
  * @itemId:SensorReading
  * @itemTitle:"Sensor Reading (Java)"
  * @itemHasParent:spec-sensor-module
- * @itemFulfills:VIC-2
+ * @itemFulfills:CS-1,KD-20
  */
 public class MyTest {
-    public static int add(int a, int b) {
+    public static int readSensor(int a, int b) {
         return a + b;
     }
 }
