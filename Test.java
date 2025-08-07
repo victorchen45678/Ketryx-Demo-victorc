@@ -5,7 +5,7 @@ package com.ketryx.sample;
  * Utility class to read sensor.
  *
  * @itemId:SensorReading
- * @itemTitle:"Sensor Reading (Jav2)"
+ * @itemTitle:"Sensor Reading (Jav4)"
  */
 
 @Test
