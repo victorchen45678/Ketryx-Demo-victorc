@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
  * @itemId:SensorReading
  * @itemTitle:"Sensor Reading (Java)"
  * @itemHasParent:spec-sensor-module
- * @itemFulfills:CS-1,KD-20
+ * @itemFulfills:VIC-2
  */
 public class MyTest {
     public void testSubtraction() {
